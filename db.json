@@ -1,0 +1,28 @@
+{
+  "pratos": [
+    {
+      "id": 1,
+      "nome": "Lasanha",
+      "tags": [
+        "massa",
+        "italiana",
+        "recheado",
+        "quente"
+      ],
+      "calorias": 2000,
+      "data-adicionada": "10/28/2020"
+    }
+  ],
+  "platos": [
+    {
+      "id": 1,
+      "frase mt loka": "Muitos odeiam a tirania apenas para que possam estabelecer a sua.",
+      "autor": "platão"
+    },
+    {
+      "frase mt loka": "Quanto mais a gente rala, mais a gente cresce",
+      "autor": "platão",
+      "id": 2
+    }
+  ]
+}
